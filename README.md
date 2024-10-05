@@ -1,4 +1,8 @@
 ## Hi there 👋
+# I am Pavithra R.
+# CSE Student at CET
+![Gril avatr](https://github.com/user-attachments/assets/ce310a87-7c7e-4251-bc1c-f0745a8ccfa9)
+
 
 <!--
 **Pavithra2703/Pavithra2703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
