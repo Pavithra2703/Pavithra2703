@@ -1,6 +1,6 @@
 ## Hi there 👋
-# I am Pavithra R.
-# CSE Student at CET
+### I am Pavithra R.
+### CSE Student at CET
 ![Gril avatr](https://github.com/user-attachments/assets/ce310a87-7c7e-4251-bc1c-f0745a8ccfa9)
 
 
