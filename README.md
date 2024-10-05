@@ -1,7 +1,6 @@
 ## Hi there 👋
-### I am Pavithra R.
-### CSE Student at CET
 ![girl avatar new](https://github.com/user-attachments/assets/710da186-3f14-43bd-a2f3-a6e55b8c00ff)
+### CSE 3rd yr student at CET
 
 
 
